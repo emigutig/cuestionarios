@@ -6,3 +6,4 @@ Describe los protocolos que existen en internet, en específico HTTP y HTML
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 ¿Cómo funciona la búsqueda de google?
+respuesta 8
