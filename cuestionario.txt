@@ -1,9 +1,15 @@
 En tus palabras, ¿Qué es internet?
+El internet es un espacio el cual es muy util para estar comunicado con muchas personas en cualquier parte del mundo.
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+La direccion IP, se basa en el protocolo de Internet, que es, además, la base del funcionamiento de Internet.DNS es el directorio telefónico de Internet. Las personas acceden a información en línea mediante nombres de dominio.
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+
 Describe los protocolos que existen en internet, en específico HTTP y HTML
+HTTP es un protocolo de la capa de aplicación para la transmisión de documentos hipermedia. Fue diseñado para la comunicación entre los navegadores y servidores web, aunque puede ser utilizado para otros propósitos también.HTML es el componente más básico de la Web. Define el significado y la estructura del contenido web.
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+
 ¿Cómo funciona la búsqueda de google?
-respuesta 8
