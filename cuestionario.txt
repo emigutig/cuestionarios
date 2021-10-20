@@ -1,18 +1,32 @@
 En tus palabras, ¿Qué es internet?
 El internet es un espacio el cual es muy util para estar comunicado con muchas personas en cualquier parte del mundo.
+
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+El medio de transmisión constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos. En ambos casos la transmisión se realiza por medio de ondas electromagnéticas.
 
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 La direccion IP, se basa en el protocolo de Internet, que es, además, la base del funcionamiento de Internet.
 DNS es el directorio telefónico de Internet. Las personas acceden a información en línea mediante nombres de dominio.
+
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 HTTP es un protocolo de la capa de aplicación para la transmisión de documentos hipermedia. Fue diseñado para la 
 comunicación entre los navegadores y servidores web, aunque puede ser utilizado para otros propósitos también.
 HTML es el componente más básico de la Web. Define el significado y la estructura del contenido web.
-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 
-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+La encriptacion de codigo HTML y JavaScript consiste en convertir todos los caracteres a una tabla de equivalencias no legible para humanos, y utilizar una pequeña funcion para su visualizacion en los navegadores Web.
+De esta manera el codigo original queda oculto para cualquiera que observe el fuente HTML de la pagina, y por la complejidad (menor, pero existente) de su implementacion previene copias y ofrece cierta privacidad y proteccion de autoria.
+
+La proteccion ofrecida por este tipo de implementaciones no evita su decodificacion (recuperacion del codigo original) por parte de programadores con conocimientos en el tema.
+El cifrado de llave pública permite a alguien enviar su llave pública en un canal abierto e inseguro. Tener la llave pública de alguna amistad o contacto le permite cifrar los mensajes que le envía. Su llave privada se usa para descifrar los mensajes que se le envían cifrados.
+
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet html
+El phishing es la forma de estafa virtual más conocida. A través de un correo, los delincuentes se hacen pasar por un banco o un servicio como Amazon o Paypal. En estos mails se incluye un enlace que piden pulsar y que redirige al usuario a una web falsa que, en apariencia, es similar a la del banco o los servicios mencionados.
+
+Desde el formulario de esta web, los delincuentes obtienen las claves de acceso y otros datos personales con los que robar la cuenta bancaria de la víctima. Una buena forma de verificar si estamos en la página del banco y no en una fraudulenta es observar la zona izquierda de la barra de navegación, donde se escribe la dirección del sitio web, y observar si aparece un candado que sirve para verificar la autenticidad del sitio
 
 ¿Cómo funciona la búsqueda de google?
+Rastreo: Google explora la Web con programas automatizados, llamados rastreadores, que buscan páginas nuevas o actualizadas. Google guarda las direcciones de esas páginas (las URLs) en una enorme lista que consulta más adelante. Hay muchas formas de encontrar páginas, pero la principal consiste en seguir enlaces presentes en páginas que Google ya conoce.
+Indexación: Google visita las páginas que ha descubierto mediante el rastreo e intenta saber de qué trata cada una. Google analiza el contenido, las imágenes y los archivos de vídeo que hay en las páginas para saber de qué tratan. Toda esta información se guarda en el índice de Google, una enorme base de datos almacenada en muchos ordenadores.
