@@ -9,8 +9,7 @@ La direccion IP, se basa en el protocolo de Internet, que es, además, la base d
 DNS es el directorio telefónico de Internet. Las personas acceden a información en línea mediante nombres de dominio.
 
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-depende del tamaño del archivo que se pueda mandar si es un archivo muy grande,la cancion sera hecha en millones de pedazoa de 1 y 0 y se mandara por muchas rutas y llegaran al destino el cual seria tu telefono y se volvera a enzamblar,como en el ejemplo que se nos pone de la nave espacial que para transportarse del lugar de donde se construyo a donde se va a lanzar se hacen varias partes y despues se vuelve a enzamblar
-
+depende del tamaño del archivo que se pueda mandar si es un archivo muy grande,la cancion sera hecha en millones de pedazoa de 1 y 0 y se mandara por muchas rutas y llegaran al destino el cual seria tu telefono y se volvera a enzamblar,como en el ejemplo que se nos pone de la nave espacial que para transportarse del lugar de donde se construyo a donde se va a lanzar se hacen varias partes y despues se vuelve
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 HTTP es un protocolo de la capa de aplicación para la transmisión de documentos hipermedia. Fue diseñado para la 
 comunicación entre los navegadores y servidores web, aunque puede ser utilizado para otros propósitos también.
@@ -31,3 +30,6 @@ Desde el formulario de esta web, los delincuentes obtienen las claves de acceso 
 ¿Cómo funciona la búsqueda de google?
 Rastreo: Google explora la Web con programas automatizados, llamados rastreadores, que buscan páginas nuevas o actualizadas. Google guarda las direcciones de esas páginas (las URLs) en una enorme lista que consulta más adelante. Hay muchas formas de encontrar páginas, pero la principal consiste en seguir enlaces presentes en páginas que Google ya conoce.
 Indexación: Google visita las páginas que ha descubierto mediante el rastreo e intenta saber de qué trata cada una. Google analiza el contenido, las imágenes y los archivos de vídeo que hay en las páginas para saber de qué tratan. Toda esta información se guarda en el índice de Google, una enorme base de datos almacenada en muchos ordenadores.
+
+Nombres:Emiliana Gutierrez y Emilio Ibáñez
+Grado y Grupo:11°1
