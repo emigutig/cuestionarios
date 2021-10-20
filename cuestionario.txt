@@ -31,5 +31,5 @@ Desde el formulario de esta web, los delincuentes obtienen las claves de acceso 
 Rastreo: Google explora la Web con programas automatizados, llamados rastreadores, que buscan páginas nuevas o actualizadas. Google guarda las direcciones de esas páginas (las URLs) en una enorme lista que consulta más adelante. Hay muchas formas de encontrar páginas, pero la principal consiste en seguir enlaces presentes en páginas que Google ya conoce.
 Indexación: Google visita las páginas que ha descubierto mediante el rastreo e intenta saber de qué trata cada una. Google analiza el contenido, las imágenes y los archivos de vídeo que hay en las páginas para saber de qué tratan. Toda esta información se guarda en el índice de Google, una enorme base de datos almacenada en muchos ordenadores.
 
-Nombres:Emiliana Gutierrez y Emilio Ibáñez
+Nombres:Emiliano Gutierrez y Emilio Ibáñez
 Grado y Grupo:11°1
