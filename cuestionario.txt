@@ -10,6 +10,7 @@ DNS es el directorio telefónico de Internet. Las personas acceden a informació
 
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 depende del tamaño del archivo que se pueda mandar si es un archivo muy grande,la cancion sera hecha en millones de pedazoa de 1 y 0 y se mandara por muchas rutas y llegaran al destino el cual seria tu telefono y se volvera a enzamblar,como en el ejemplo que se nos pone de la nave espacial que para transportarse del lugar de donde se construyo a donde se va a lanzar se hacen varias partes y despues se vuelve a enzamblar
+
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 HTTP es un protocolo de la capa de aplicación para la transmisión de documentos hipermedia. Fue diseñado para la 
 comunicación entre los navegadores y servidores web, aunque puede ser utilizado para otros propósitos también.
